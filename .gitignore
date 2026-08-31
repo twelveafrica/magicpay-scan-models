@@ -1,0 +1,4 @@
+# Weights are not stored here — they are release assets.
+*.onnx
+*.tflite
+*.f32
